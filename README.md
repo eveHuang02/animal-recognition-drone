@@ -2,6 +2,10 @@
 
 This project provides a complete AI pipeline to detect and classify animals such as pigs, kangaroos, and deer from drone-captured videos. It consists of two main modules: object detection and image classification, both based on YOLOv8 to YOLOv11 models.
 
+<p align="center">
+  <img src="docs/output.png" alt="Sample result" width="640">
+</p>
+
 ## Folder Overview
 
 - `data_preparation/`: Tools to extract frames from drone videos.
