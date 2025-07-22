@@ -1,0 +1,12 @@
+train: train/images
+val: val/images
+
+nc: 3
+names: ['deer', 'pig', 'roo']
+
+roboflow:
+  workspace: project-yjhi5
+  project: animal_detection-410ic
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project-yjhi5/animal_detection-410ic/dataset/8
