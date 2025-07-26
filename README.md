@@ -1,4 +1,4 @@
-# Animal Recognition Using Drone Imaging
+## Animal Recognition Using Drone Imaging
 
 This project provides a complete AI pipeline to detect and classify animals such as pigs, kangaroos, and deer from drone-captured videos. It consists of two main modules: object detection and image classification, both based on YOLOv8 to YOLOv11 models.
 
